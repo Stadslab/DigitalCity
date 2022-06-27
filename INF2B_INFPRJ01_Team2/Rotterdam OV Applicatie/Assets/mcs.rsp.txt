@@ -1,0 +1,5 @@
+-r:Google.Protobuf.dll
+-r:protobuf-net.dll
+-r:protobuf-net.Core.dll
+-r:GtfsRealtimeBindings.dll
+-r:Unity.dll
